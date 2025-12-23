@@ -16,6 +16,6 @@ A content-based filtering music recommendation web application built with python
 
 # Installation & Setup
   1-Install Dependencies : pip install streamlit spotipy pandas scikit-learn
-  2- How to Run : streamlit run app.py (The app should open automatically in your browser at http://localhost:8501.)
+  2- How to Run : streamlit run app.py (The app should open automatically in your browser at http://localhost:8501)
     
 
