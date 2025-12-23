@@ -24,7 +24,7 @@ A content-based music recommendation web application built with Python and Strea
 ### Installation
 
 ## Download & Extract
--  Download the project zip file from ** **.
+-  Download the project zip file from ** https://drive.google.com/file/d/1rKKeps_-Ejk_QOJv9gakeCiAfCcZ7jQa/view?usp=sharing **.
 -    **Unzip/Extract** the folder to a location on your computer (e.g., Desktop or Downloads).
 3.  Open your terminal (Command Prompt or PowerShell) and navigate to the extracted folder:
     ```bash
